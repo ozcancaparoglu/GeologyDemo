@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeologyDemo.Web", "GeologyDemo.Web\GeologyDemo.Web.csproj", "{FEF7498D-0CE8-4DB1-876C-E321E0CFF23D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeologyDemo.Application", "GeologyDemo.Application\GeologyDemo.Application.csproj", "{1F4479F2-0292-4C28-ABFE-A0FBEA2A78F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeologyDemo.Repository", "GeologyDemo.Repository\GeologyDemo.Repository.csproj", "{9F2F6C5C-AB59-4432-A581-71F91ABE3061}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeologyDemo.Domain", "GeologyDemo.Domain\GeologyDemo.Domain.csproj", "{9D9DDD3B-B3F4-4658-B5CE-FDBA2F5967A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeologyDemo.Container", "GeologyDemo.Container\GeologyDemo.Container.csproj", "{81EA281A-7137-4C14-AC0C-895BD241EA2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeologyDemo.Contract", "GeologyDemo.Contract\GeologyDemo.Contract.csproj", "{CD9282A8-EE90-46AD-8808-82F128DD156C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEF7498D-0CE8-4DB1-876C-E321E0CFF23D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEF7498D-0CE8-4DB1-876C-E321E0CFF23D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEF7498D-0CE8-4DB1-876C-E321E0CFF23D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEF7498D-0CE8-4DB1-876C-E321E0CFF23D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F4479F2-0292-4C28-ABFE-A0FBEA2A78F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F4479F2-0292-4C28-ABFE-A0FBEA2A78F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F4479F2-0292-4C28-ABFE-A0FBEA2A78F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F4479F2-0292-4C28-ABFE-A0FBEA2A78F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F2F6C5C-AB59-4432-A581-71F91ABE3061}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F2F6C5C-AB59-4432-A581-71F91ABE3061}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F2F6C5C-AB59-4432-A581-71F91ABE3061}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F2F6C5C-AB59-4432-A581-71F91ABE3061}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D9DDD3B-B3F4-4658-B5CE-FDBA2F5967A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D9DDD3B-B3F4-4658-B5CE-FDBA2F5967A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D9DDD3B-B3F4-4658-B5CE-FDBA2F5967A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D9DDD3B-B3F4-4658-B5CE-FDBA2F5967A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81EA281A-7137-4C14-AC0C-895BD241EA2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81EA281A-7137-4C14-AC0C-895BD241EA2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81EA281A-7137-4C14-AC0C-895BD241EA2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81EA281A-7137-4C14-AC0C-895BD241EA2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD9282A8-EE90-46AD-8808-82F128DD156C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD9282A8-EE90-46AD-8808-82F128DD156C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD9282A8-EE90-46AD-8808-82F128DD156C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD9282A8-EE90-46AD-8808-82F128DD156C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA77C3CA-3336-4625-BDD6-948E969903EE}
+	EndGlobalSection
+EndGlobal
